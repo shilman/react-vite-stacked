@@ -3,6 +3,5 @@
   "projectId": "Project:6a8db7df193a743dd58d179f",
   "storybookBaseDir": ".",
   "storybookConfigDir": "./.storybook",
-  "storybookBuildDir": "./storybook-static",
   "onlyChanged": true
 }
